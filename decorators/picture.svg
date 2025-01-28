@@ -1,0 +1,40 @@
+<svg width="10" height="10" viewBox="0 0 10 10" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_99_12599)">
+<path d="M0.5 1C0.5 0.723858 0.723858 0.5 1 0.5H9C9.27614 0.5 9.5 0.723858 9.5 1V9C9.5 9.27614 9.27614 9.5 9 9.5H1C0.723858 9.5 0.5 9.27614 0.5 9V1Z" fill="url(#paint0_linear_99_12599)" stroke="#7F96C4"/>
+<rect x="1" y="1" width="8" height="6" fill="url(#paint1_linear_99_12599)"/>
+<rect x="1" y="7" width="8" height="2" fill="url(#paint2_linear_99_12599)"/>
+<rect x="4" y="5" width="2" height="2" fill="url(#paint3_linear_99_12599)"/>
+<circle cx="5" cy="4" r="1.5" fill="url(#paint4_linear_99_12599)" stroke="url(#paint5_linear_99_12599)"/>
+<rect x="1.5" y="1.5" width="7" height="7" stroke="white" stroke-opacity="0.66" style="mix-blend-mode:soft-light"/>
+<rect x="1.5" y="1.5" width="7" height="7" stroke="white" stroke-opacity="0.66" style="mix-blend-mode:hard-light"/>
+</g>
+<defs>
+<linearGradient id="paint0_linear_99_12599" x1="0" y1="0" x2="11.1952" y2="8.40881" gradientUnits="userSpaceOnUse">
+<stop stop-color="white"/>
+<stop offset="1" stop-color="#EFF3F7"/>
+</linearGradient>
+<linearGradient id="paint1_linear_99_12599" x1="1" y1="1" x2="8.29838" y2="7.75775" gradientUnits="userSpaceOnUse">
+<stop stop-color="#BBDEFF"/>
+<stop offset="1" stop-color="#90C8FF"/>
+</linearGradient>
+<linearGradient id="paint2_linear_99_12599" x1="9" y1="8" x2="1" y2="8" gradientUnits="userSpaceOnUse">
+<stop stop-color="#66BA20"/>
+<stop offset="1" stop-color="#8AD74C"/>
+</linearGradient>
+<linearGradient id="paint3_linear_99_12599" x1="6" y1="6" x2="4" y2="6" gradientUnits="userSpaceOnUse">
+<stop stop-color="#A17831"/>
+<stop offset="1" stop-color="#CC9E4F"/>
+</linearGradient>
+<linearGradient id="paint4_linear_99_12599" x1="3" y1="2" x2="7" y2="6" gradientUnits="userSpaceOnUse">
+<stop offset="0.253475" stop-color="#C2E57A"/>
+<stop offset="0.749661" stop-color="#9CDD48"/>
+</linearGradient>
+<linearGradient id="paint5_linear_99_12599" x1="7" y1="6" x2="3" y2="2" gradientUnits="userSpaceOnUse">
+<stop stop-color="#64AA2C"/>
+<stop offset="1" stop-color="#93C956"/>
+</linearGradient>
+<clipPath id="clip0_99_12599">
+<rect width="10" height="10" fill="white"/>
+</clipPath>
+</defs>
+</svg>
