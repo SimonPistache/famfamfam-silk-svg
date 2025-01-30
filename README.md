@@ -3,71 +3,56 @@
 # FamFamFam Silk as SVG & Figma Kit
 > The iconic iconset of the 2010’s era from Mark James, remade in SVG and Figma kit for today’s needs.
 
-
 ## 🚀 Getting started
 
-### Get the icons
-
-This work contains 1000+ icons in SVG ready to use as you need it. Feel free to: 
+This work contains ~1000 icons in SVG, feel free to:
 
 * Clone or fork the repository.
-* Use the [Figma UI Kit](https://)!
-* Or simply download files from the [icons](./icons/) folder.
+* Download files from the [icons](./icons/) folder.
 
 ![All available icons](./public/available-icons.png)
 
-### Mix and Match icons to create new ones
+## Contributing 🧑‍🎨 
 
-You may not find the perfect icon, so [decorators](./decorators/), [parts](./parts/) and [variants](/variants) (in their respective folders) come to help:
+Issues and Contributions are welcomed to this project! I believe that healthy debate and disagreement are essential to a healthy project and community. However, it is never ok to be disrespectful.
 
-- Decorators are bullet-like icons that you can place on top of an existing icon to give it more meaning:  
-  ![Pick an icon, add a decorator on top, and voilà! you have a new icon!](./public/compositor.svg)
-- Some icons have parts to allow you to customize or change element to your need:  
-  ![Swap parts to compose an icon to your liking](./public/repartitor.svg)
-- Variants contains slight aestetics changes of an icon:  
-  ![Switch variants of an icon](./public/variator.svg)
+#### 🖐️ I would like to report a bug or suggest something!
 
-## Contribute 🧑‍🎨 
+The issue section is the right place for you to describe your problem. Specific rules applies, and not following them may result in the closing of the issue.
+* Issue must have a label related to your topic
+* Issue must be sufficiently described, clear and not misleading
+* Issue may be flagged as _duplicate_ if the topic is already discussed on another issue. To avoid your issue being closed early, please search for duplicates beforehand, and comment or upvote it instead.
 
-Contributions are welcomed to this project! Want to contribute?, pick the righ section below:
+#### 🪄 Can I create an icon too?
 
-**🖐️ I would like to report a bug or suggest something!**  
-The issue section is the right place for you to describe your problem. Please take time to review existing issues to avoir duplicates.
+Sure! Please *Fork* → *Create* → *Push* → *Pull Request*. Please follow the [Pull Request & commits guidelines](#pull-request-and-commit-guidelines), and the [Icon Design guidelines](#icon-design-guidelines) below.
 
-**🩹 I have fixed this icon, how can I give it back?**  
-*Fork* → *Patch* → *Push*  → *Pull Request*. Please read the Contribution guideline or your contribution may not be approved.
+#### 🩹 I have fixed this icon, how can I give it back?
 
-**🪄 Can I create an icon too?**  
-Sure! Take note of the Contribution guideline and *Fork* → *Create* → *Push*  → *Pull Request*.
+Thank you! Please *Fork* → *Patch* → *Push* → *Pull Request*. Please follow the [Pull Request & commits guidelines](#pull-request-and-commit-guidelines), and the [Icon Design guidelines](#icon-design-guidelines) below.
+
+### Pull Request and Commit Guidelines
+- It should stick to the [community's best practices](https://github.com/kubernetes/community/blob/master/contributors/guide/pull-requests.md#best-practices-for-faster-reviews) as close as possible
+- It must have the **Conventional Commit** principles in commit and PR names. I.e.: *fix(#33): Remove duplicate stroke on the main circle*
+- It must be related to an issue in this project.
+- Authors of contribution are credited (via the Contributor section of Github)
+
+### Icon Design Guidelines
+- Icons must be in the **style and spirit of the original work** from Marc James.
+- Icons must be in **SVG**.
+- Icons must be designed to be **legible in any size from 16×16px to 64×64px**. It must have the right balance between too much details and too little.
+- Icon improvement based on existing icons must be as close as possible to the original design, especially at 16×16px.
+- Icon must render without visual artefact in today's broswer such as WebKit, Blink, Gecko. (Test your icons)
 
 ## License
 
-This project is licensed under the [**Creative Commons BY 4**](https://creativecommons.org/licenses/by/4.0/) license. In a nutshell:
-
-### You are free to:
-- **Share** — copy and redistribute the material in any medium or format for any purpose, even commercially.
-- **Adapt** — remix, transform, and build upon the material for any purpose, even commercially.
-- The licensor cannot revoke these freedoms as long as you follow the license terms.
-
-### Under the following terms:
-- **Attribution** — You must give [appropriate credit](https://creativecommons.org/licenses/by/4.0/#ref-appropriate-credit), provide a link to the [license](./LICENSE), and [indicate if changes were made](https://creativecommons.org/licenses/by/4.0/#ref-indicate-changes). You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
-- **No additional restrictions** — You may not apply legal terms or [technological measures](https://creativecommons.org/licenses/by/4.0/#ref-technological-measures) that legally restrict others from doing anything the license permits.
-
-### Notices
-You do not have to comply with the license for elements of the material in the public domain or where your use is permitted by an applicable [exception or limitation](https://creativecommons.org/licenses/by/4.0/#ref-exception-or-limitation).
-
-No warranties are given. The license may not give you all of the permissions necessary for your intended use. For example, other rights such as [publicity, privacy, or moral rights](https://creativecommons.org/licenses/by/4.0/#ref-publicity-privacy-or-moral-rights) may limit how you use the material. 
+This project is licensed under the [**Creative Commons BY 4**](https://creativecommons.org/licenses/by/4.0/) license. This content is distributed in the hope that it will be useful, but **without any warranty**; without even the implied warranty of **merchantability** or **fitness for a particular purpose**.
 
 ## Acknowlegements
 
-#### Credits
-
- - © Mark James
- - © Simon Priet
-
 The Original *FamFamFam Silk* icon pack ([github](https://github.com/markjames/famfamfam-silk-icons) • [website](http://www.famfamfam.com/lab/icons/silk/)) remains the property of Mark James. Please have my thanks and salute for your great work.
 
-#### Fonts used in some icons
+#### Fonts
 - [Fira Mono](https://github.com/mozilla/Fira)
 - [Fira Sans](https://github.com/mozilla/Fira)
 - [Fira Sans Condensed](https://github.com/mozilla/Fira)
