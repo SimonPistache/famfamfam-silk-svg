@@ -32,7 +32,7 @@ To open a topic, go to the discussion tab on this project.
 
 > Issues allow users to report bugs, request improvement or suggest ideas.
 
-You can open an issue for the following categories. Use the corresponding labels.
+You can open an issue for the following categories, via the corresponding labels.
 * **minor bug**: Bug that slightly affect visual or render aspects of an icon, or that is not impeding the project. 
 * **major bug**: Annoyance on the project or icons not following the original style.
 * **critical bug**: Icon that is visually different from original, or bug blocking the project. 
@@ -56,7 +56,7 @@ Pull Requests should bind to the Github's best practices. They must follow the r
 
 ## 🎨 Icon design guidelines
 
-- Icons must be in the **style and spirit of the original work** from Marc James.
+- Icons must be in the **style and spirit of the original work** from Mark James.
 - Icons must be in **SVG**.
 - Icons must be designed to be **legible in any size from 16×16px to 64×64px**. It must have the right balance between too much details and too little.
 - Icon improvement based on existing icons must be as close as possible to the original design, especially at 16×16px.
