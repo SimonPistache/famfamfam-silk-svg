@@ -1,5 +1,4 @@
 # 📒 Contribution guidelines
-Contributions and discussions are welcomed to this project!
 
 ## Code of conduct
 
@@ -13,12 +12,15 @@ I believe that healthy debate and disagreement are essential to a healthy projec
 - Be constructive.
 - Be responsible.
 
+Not following the contributions guidelines may result in issues or PR closing or deletion, the ban of the user's account or reporting to Github staff.
+
 ## TOC
 
 Learn about:  
 1. [Open a topic to discuss](#-discussions)  
-2. [Open an issue about a bug, improvement or to suggest icons](#️-i-would-like-to-report-a-bug-or-an-issue)  
-3. [Open a PR to patch or contribute to the project]()  
+2. [Open an issue about a bug, improvement or to suggest icons](#-issues)  
+3. [Open a PR to patch or contribute to the project](#-code-contributions)  
+4. [Icon design guidelines](#-icon-design-guidelines)
 
 ## 💬 Discussions
 
@@ -43,19 +45,20 @@ Specific rules applies, and not following them may result in the closing of the 
 * Issue must be sufficiently described, clear and not misleading.
 * Issue may be flagged as _duplicate_ if the topic is already discussed on another issue. To avoid your issue being closed early, please search for duplicated before opening one and comment or upvote it instead.
 
-## 🪄 Code contribution
+## 🪄 Code contributions
 
-> Code contribution can take form of new icons in SVG or changes to existing icons in the goal to improve them.
+> Code contribution can take form of new icons in SVG or changes to existing icons in the goal to improve them. The workflow is the classic Github *Fork* → *Commit* → *Push* → *Pull Request*.
 
-Pull Requests must follow the rules below:
-- Contributions must be related to an issue. Please create one before opening a PR.
-- Code related to icons must follow icons design guidelines
+Pull Requests should bind to the Github's best practices. They must follow the rules below:
+- It must be related to an issue. Please create one before opening a PR.
+- It must have the **Conventional Commit** principles in commit and PR names. I.e.: *fix(#33): Remove duplicate stroke on the main circle*
+- Changes related to icons must follow icons design guidelines
 
-## Icon design guideline
+## 🎨 Icon design guidelines
 
-- Icons must be in the **style and spirit of the original work** from Marc.
+- Icons must be in the **style and spirit of the original work** from Marc James.
 - Icons must be in **SVG**.
 - Icons must be designed to be **legible in any size from 16×16px to 64×64px**. It must have the right balance between too much details and too little.
-- Icon improvement based on existing icons must be as close as possible to the original design.
+- Icon improvement based on existing icons must be as close as possible to the original design, especially at 16×16px.
 - Icon must render without visual artefact in today's broswer such as WebKit, Blink, Gecko.
 
