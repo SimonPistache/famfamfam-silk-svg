@@ -14,14 +14,15 @@ This work contains ~1000 icons in SVG, feel free to:
 
 ## Contributing 🧑‍🎨 
 
-Issues and Contributions are welcomed to this project! I believe that healthy debate and disagreement are essential to a healthy project and community. However, it is never ok to be disrespectful.
+Reports, Requests and Contributions are welcomed to this project! I believe that healthy debate and disagreement are essential to a healthy project and community. However, it is never ok to be disrespectful.
 
 #### 🖐️ I would like to report a bug or suggest something!
 
 The issue section is the right place for you to describe your problem. Specific rules applies, and not following them may result in the closing of the issue.
 * Issue must have a label related to your topic
 * Issue must be sufficiently described, clear and not misleading
-* Issue may be flagged as _duplicate_ if the topic is already discussed on another issue. To avoid your issue being closed early, please search for duplicates beforehand, and comment or upvote it instead.
+* Issue may be flagged as _duplicate_ if the topic is already discussed on another issue.
+* There is no garanties that an Issue will be resolved. I have limited bandwidth.
 
 #### 🪄 Can I create an icon too?
 
@@ -33,7 +34,7 @@ Thank you! Please *Fork* → *Patch* → *Push* → *Pull Request*. Please follo
 
 ### Pull Request and Commit Guidelines
 - It should stick to the [community's best practices](https://github.com/kubernetes/community/blob/master/contributors/guide/pull-requests.md#best-practices-for-faster-reviews) as close as possible
-- It must have the **Conventional Commit** principles in commit and PR names. I.e.: *fix(#33): Remove duplicate stroke on the main circle*
+- It must follow the [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/#summary) principles in commit and PR names.
 - It must be related to an issue in this project.
 - Authors of contribution are credited (via the Contributor section of Github)
 
