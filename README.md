@@ -1,14 +1,15 @@
 <img align="center" src="./public/github-cover.png">
 
-# FamFamFam Silk as SVG & Figma Kit
-> The iconic iconset of the 2010’s era from Mark James, remade in SVG and Figma kit for today’s needs.
+# FamFamFam Silk as SVG
+> The iconic iconset of the 2010’s era from Mark James, remade in SVG for today’s needs.
 
-## 🚀 Getting started
+## 🚀 How to use
 
 This work contains ~1000 icons in SVG, feel free to:
 
 * Clone or fork the repository.
 * Download files from the [icons](./icons/) folder.
+* (A Figma UI KIT will be released to the community later.)
 
 ![All available icons](./public/available-icons.png)
 
