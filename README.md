@@ -3,9 +3,13 @@
 # FamFamFam Silk as SVG
 > The iconic iconset of the 2010’s era from Mark James, remade in SVG for today’s needs.
 
-This project contains ~1000 icons in SVG. SVG is lightweight and scalable compared to PNG — and open format, allowing anyone to edit it to his/her needs. I aim to have all the original icons remastered, but also create more up-to-date versions (Smartphones was not a thing back in 2008). Plus, most icons can be mixed with decorators (bullets) to get more meaning. 
+This project contains ~1000 icons in SVG. SVG is lightweight, scalable compared to PNG — and open format, allowing anyone to edit it to his/her needs. I aim to have all the original icons remastered, but also create more up-to-date versions (Smartphones was not a thing back in 2008). Plus, most icons can be mixed with decorators (bullets) to get more meaning. 
 
-![SVG allows scalling](public/scaling.png) ![SVG ease customisation](public/swaping.png) ![SVG ease customisation](public/mixing.png)
+Scale: <img height=16px src="./icons/cup.svg"> <img height=24px src="./icons/cup.svg"> <img height=32px src="./icons/cup.svg"> <img height=48px src="./icons/cup.svg"> <img height=64px src="./icons/cup.svg">
+
+Mix: ![Cup of caffee](<public/Cup of caffe.svg>) + ![Bullet delete](<icons/Bullet delete.svg>) = ![A cup of caffe with a delete bullet at its bottom right](<public/I should stop caffe.svg>)
+
+Customize: ![Cup of caffee](<public/Cup of caffe.svg>) ![Cup of Matcha latte](<public/Cup of matcha.svg>) ![Cup of Tea](<public/Cup of tea.svg>) ![Cup of water](<public/Cup of water.svg>)
 
 ## 🚀 How to use
 
