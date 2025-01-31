@@ -25,7 +25,7 @@ Customize: ![Cup of caffee](<public/Cup of caffe.svg>) ![Cup of Matcha latte](<p
 * (Soon) Access to variants
 * (Soon) Access to parts
 
-## Contributing <img height=30px src="icons/Paintbrush.svg">
+## Contributing <img height=30px src="icons/Paintbrush.svg">
 
 Reports, Requests and Contributions are welcomed to this project! I believe that healthy debate and disagreement are essential to a healthy project and community. However, it is never ok to be disrespectful.
 
