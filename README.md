@@ -11,19 +11,25 @@ Mix: ![Cup of caffee](<public/Cup of caffe.svg>) + ![Bullet delete](<icons/Bulle
 
 Customize: ![Cup of caffee](<public/Cup of caffe.svg>) ![Cup of Matcha latte](<public/Cup of matcha.svg>) ![Cup of Tea](<public/Cup of tea.svg>) ![Cup of water](<public/Cup of water.svg>)
 
-## 🚀 How to use
+## <img height=30px style="position:relative; bottom:-.3em" src="icons/Accept.svg">  How to use
 
 * Clone or fork the repository.
 * Download files from the [icons](./icons/) folder.
-* (Soon) ~~Get the Figma UI Kit!~~
 
 ![All available icons](./public/available-icons.png)  
 
-## Contributing 🧑‍🎨 
+### <img height=24px style="position:relative; bottom:-.25em" src="icons/Date.svg">  Roadmap
+
+* (Soon) Designers: Get the Figma UI Kit
+* (Soon) Access to more decorators
+* (Soon) Access to variants
+* (Soon) Access to parts
+
+## <img height=30px style="position:relative; bottom:-.3em" src="icons/Paintbrush.svg">  Contributing
 
 Reports, Requests and Contributions are welcomed to this project! I believe that healthy debate and disagreement are essential to a healthy project and community. However, it is never ok to be disrespectful.
 
-### 🖐️ I would like to report a bug or suggest something!
+### <img height=24px style="position:relative; bottom:-.25em" src="icons/Bug.svg">  I would like to report a bug or suggest something!
 
 The issue section is the right place for you to describe your problem. Specific rules applies, and not following them may result in the closing of the issue.
 * Issue must have a label related to your topic
@@ -31,11 +37,11 @@ The issue section is the right place for you to describe your problem. Specific 
 * Issue may be flagged as _duplicate_ if the topic is already discussed on another issue.
 * There is no garanties that an Issue will be resolved. I have limited bandwidth.
 
-### 🪄 Can I create an icon too?
+### <img height=24px style="position:relative; bottom:-.2em" src="icons/Wand.svg">  Can I create an icon too?
 
 Sure! Please *Fork* → *Create* → *Push* → *Pull Request*, follow the [Pull Request & commits guidelines](#pull-request-and-commit-guidelines), and the [Icon Design guidelines](#icon-design-guidelines) below.
 
-### 🩹 I have fixed this icon, how can I give it back?
+### <img height=24px style="position:relative; bottom:-.2em" src="icons/Wrench.svg">  I have fixed this icon, how can I give it back?
 
 Thank you! Please *Fork* → *Patch* → *Push* → *Pull Request* and follow the [Pull Request & commits guidelines](#pull-request-and-commit-guidelines), and the [Icon Design guidelines](#icon-design-guidelines) below.
 
@@ -52,11 +58,11 @@ Thank you! Please *Fork* → *Patch* → *Push* → *Pull Request* and follow th
 - Icon improvement based on existing icons must be as close as possible to the original design, especially at 16×16px.
 - Icon must render without visual artefact in today's broswer such as WebKit, Blink, Gecko. (Test your icons)
 
-## License
+## <img height=30px style="position:relative; bottom:-.3em" src="icons/Report.svg">   License
 
 This project is licensed under the [**Creative Commons BY 4**](https://creativecommons.org/licenses/by/4.0/) license. This content is distributed in the hope that it will be useful, but **without any warranty**; without even the implied warranty of **merchantability** or **fitness for a particular purpose**.
 
-## Acknowlegements
+## <img height=30px style="position:relative; bottom:-.3em" src="icons/Heart.svg">  Acknowlegements
 
 The Original *FamFamFam Silk* icon pack ([github](https://github.com/markjames/famfamfam-silk-icons) • [website](http://www.famfamfam.com/lab/icons/silk/)) remains the property of Mark James. Mark, please have my thanks and salute for your great work.
 
