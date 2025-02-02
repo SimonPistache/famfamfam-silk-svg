@@ -16,6 +16,7 @@ Customize: ![Cup of caffee](<public/Cup of caffe.svg>) ![Cup of Matcha latte](<p
 * Clone or fork the repository.
 * Download files from the [icons](./icons/) folder.
 
+Currently available icons:
 ![All available icons](./public/available-icons.png)  
 
 ### <img height=24px src="icons/Date.svg"> Roadmap
@@ -82,5 +83,5 @@ The Original *FamFamFam Silk* icon pack ([github](https://github.com/markjames/f
 
 #### About me
 
-Hi I'm Simon. Computer enthousiast, I have recently switch to become a Product.UX.UI Designer, and used to be a Quality Engineer. I love to create stuff and share it. 
+Hi I'm Simon. Computer enthusiast, I have recently switch to become a Product.UX.UI Designer, and used to be a Quality Engineer. I love to create stuff and share it. 
 [linkedin](https://www.linkedin.com/in/simonpriet/) • [behance](https://www.behance.net/SimonPistache#) • [dribbble](https://dribbble.com/SimonPistache) • [github](https://github.com/SimonPistache)
