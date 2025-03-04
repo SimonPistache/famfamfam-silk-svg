@@ -1,5 +1,5 @@
 name: Automatic Release
-run-name: Release a new version of the Icons on PR's merging
+run-name: Release a new version of the icon pack on PR's merging
 
 on:
   pull_request:
