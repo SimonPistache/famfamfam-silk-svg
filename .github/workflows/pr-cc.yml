@@ -1,4 +1,4 @@
-name: PR Conventional Commit Validation
+name: Conventional Commit
 run-name: Enforce that PR name follow Conventional Commits
 
 on:
@@ -6,7 +6,7 @@ on:
     types: [opened, synchronize, reopened, edited]
 
 jobs:
-  validate-pr-title:
+  Validate:
     runs-on: ubuntu-latest
     steps:
       - name: PR Conventional Commit Validation
