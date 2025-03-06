@@ -4,23 +4,25 @@ run-name: Release a new version of the icon pack on PR's merging
 on:
   pull_request:
     types:
-      - closed
+      - merged
     branches:
       - main
 
 jobs:
   semantic-release:
-    if: "!contains(github.event.head_commit.message, 'ci:')"
+    if: "!startsWith(github.event.head_commit.message, 'ci')"
 
     name: Semantic Release
     runs-on: ubuntu-latest
     permissions:
       contents: write
+      issues: write
+      pull-requests: write
 
     steps:
       # Checkout data from the repository
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v4.2.2
         with:
           fetch-depth: 0
           persist-credentials: false
@@ -30,4 +32,5 @@ jobs:
         uses: cycjimmy/semantic-release-action@v4
         id: semantic # Need an `id` for output variables
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          # Use admin FG-PAT
+          GITHUB_TOKEN: ${{ secrets.RELEABOT_TOKEN }}
