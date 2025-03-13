@@ -6,24 +6,11 @@
 <path d="M2.03184 13.8244L1.6456 14.8544L2.67556 14.4682L6.57415 13.0062C6.70781 12.9561 6.8292 12.8779 6.93014 12.777L7 12.7071C7.39052 12.3166 7.39052 11.6834 7 11.2929L5.20711 9.5C4.81658 9.10947 4.18342 9.10948 3.79289 9.5L3.72303 9.56986L4.07658 9.92342L3.72303 9.56986C3.62209 9.6708 3.54393 9.79219 3.49381 9.92585L2.03184 13.8244Z" stroke="url(#paint3_linear_448_7316)" stroke-linejoin="round"/>
 <path d="M11.3536 2.64645C11.1583 2.45118 10.8417 2.45118 10.6464 2.64645L3.64645 9.64645C3.45118 9.84171 3.45118 10.1583 3.64645 10.3536L6.14645 12.8536C6.34171 13.0488 6.65829 13.0488 6.85355 12.8536L13.8536 5.85355C14.0488 5.65829 14.0488 5.34171 13.8536 5.14645L11.3536 2.64645Z" fill="url(#paint4_linear_448_7316)" stroke="url(#paint5_linear_448_7316)" stroke-linejoin="round"/>
 <path fill-rule="evenodd" clip-rule="evenodd" d="M4 10L11 3L13.5 5.5L6.5 12.5L4 10ZM5.79289 11.7929L12.7929 4.79289L11.7071 3.70711L4.70711 10.7071L5.79289 11.7929Z" fill="url(#paint6_linear_448_7316)"/>
-<path d="M10.6465 2.64641L10.2929 2.99996L10.6465 3.35352L13.1465 5.85352L13.5 6.20707L13.8536 5.85353L14.8536 4.85356L14.8536 4.85355C15.6856 4.02158 15.5046 2.67616 14.6621 1.83364C13.8179 0.989434 12.477 0.815919 11.6465 1.64644C11.6465 1.64644 11.6465 1.64644 11.6465 1.64645L10.6465 2.64641Z" fill="url(#paint7_linear_448_7316)" stroke="url(#paint8_linear_448_7316)"/>
-<g filter="url(#filter0_i_448_7316)">
-<circle cx="12.5" cy="12.5" r="3.5" fill="#FF6D00"/>
-</g>
-<circle cx="12.5" cy="12.5" r="3" stroke="#BC4305"/>
+<path d="M10.6465 2.64641L10.2929 2.99996L10.6464 3.35352L13.1464 5.85352L13.5 6.20707L13.8535 5.85353L14.8535 4.85356L14.8536 4.85355C15.6855 4.02158 15.5046 2.67616 14.6621 1.83364C13.8178 0.989434 12.477 0.815919 11.6465 1.64644C11.6465 1.64644 11.6464 1.64644 11.6464 1.64645L10.6465 2.64641Z" fill="url(#paint7_linear_448_7316)" stroke="url(#paint8_linear_448_7316)"/>
+<circle cx="12.5" cy="12.5" r="3" fill="url(#paint9_radial_448_7316)" stroke="#BC4305"/>
 <path fill-rule="evenodd" clip-rule="evenodd" d="M14 13H11V12H14V13Z" fill="white"/>
 </g>
 <defs>
-<filter id="filter0_i_448_7316" x="9" y="9" width="8" height="8" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
-<feFlood flood-opacity="0" result="BackgroundImageFix"/>
-<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
-<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
-<feOffset dx="1" dy="1"/>
-<feGaussianBlur stdDeviation="2"/>
-<feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1"/>
-<feColorMatrix type="matrix" values="0 0 0 0 1 0 0 0 0 0.68776 0 0 0 0 0.490104 0 0 0 1 0"/>
-<feBlend mode="normal" in2="shape" result="effect1_innerShadow_448_7316"/>
-</filter>
 <linearGradient id="paint0_linear_448_7316" x1="4" y1="10" x2="6.5" y2="12.5" gradientUnits="userSpaceOnUse">
 <stop stop-color="#FAE7D1"/>
 <stop offset="1" stop-color="#E89840"/>
@@ -53,14 +40,18 @@
 <stop stop-color="#FCF4B3"/>
 <stop offset="1" stop-color="#F6E34A"/>
 </linearGradient>
-<linearGradient id="paint7_linear_448_7316" x1="11.9872" y1="1.96495" x2="13.9495" y2="4.88643" gradientUnits="userSpaceOnUse">
+<linearGradient id="paint7_linear_448_7316" x1="11.9871" y1="1.96495" x2="13.9495" y2="4.88643" gradientUnits="userSpaceOnUse">
 <stop stop-color="#FDD7D1"/>
 <stop offset="1" stop-color="#FBACA1"/>
 </linearGradient>
-<linearGradient id="paint8_linear_448_7316" x1="12" y1="2" x2="13.8849" y2="4.89985" gradientUnits="userSpaceOnUse">
+<linearGradient id="paint8_linear_448_7316" x1="12" y1="2" x2="13.8848" y2="4.89985" gradientUnits="userSpaceOnUse">
 <stop stop-color="#E1B3AD"/>
 <stop offset="1" stop-color="#B17971"/>
 </linearGradient>
+<radialGradient id="paint9_radial_448_7316" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(11 11) rotate(45) scale(4.24264)">
+<stop stop-color="#FFAF7D"/>
+<stop offset="1" stop-color="#FF6D00"/>
+</radialGradient>
 <clipPath id="clip0_448_7316">
 <rect width="16" height="16" fill="white"/>
 </clipPath>

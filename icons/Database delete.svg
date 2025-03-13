@@ -12,10 +12,7 @@
 <path fill-rule="evenodd" clip-rule="evenodd" d="M13 4V12C13 13.1046 10.7614 14 8 14C5.23858 14 3 13.1046 3 12V4C3 2.89543 5.23858 2 8 2C10.7614 2 13 2.89543 13 4Z"/>
 </mask>
 <path d="M12 4V12H14V4H12ZM8 15C9.47536 15 10.8571 14.7626 11.9069 14.3427C12.4291 14.1338 12.9187 13.8601 13.2942 13.505C13.6718 13.148 14 12.6397 14 12H12C12 11.9126 12.0484 11.9305 11.92 12.0519C11.7894 12.1754 11.5468 12.3327 11.1641 12.4857C10.4043 12.7897 9.28606 13 8 13V15ZM2 12C2 12.6397 2.32823 13.148 2.70582 13.505C3.08129 13.8601 3.57094 14.1338 4.09308 14.3427C5.1429 14.7626 6.52464 15 8 15V13C6.71394 13 5.59568 12.7897 4.83586 12.4857C4.45317 12.3327 4.21059 12.1754 4.08003 12.0519C3.95159 11.9305 4 11.9126 4 12H2ZM4 12V4H2V12H4ZM8 1C6.52464 1 5.1429 1.23738 4.09308 1.65731C3.57094 1.86616 3.08129 2.13987 2.70582 2.49495C2.32823 2.85204 2 3.36029 2 4H4C4 4.08742 3.95159 4.06954 4.08003 3.94807C4.21059 3.8246 4.45317 3.66734 4.83586 3.51426C5.59568 3.21033 6.71394 3 8 3V1ZM14 4C14 3.36029 13.6718 2.85204 13.2942 2.49495C12.9187 2.13987 12.4291 1.86616 11.9069 1.65731C10.8571 1.23738 9.47536 1 8 1V3C9.28606 3 10.4043 3.21033 11.1641 3.51426C11.5468 3.66734 11.7894 3.8246 11.92 3.94807C12.0484 4.06954 12 4.08742 12 4H14Z" fill="url(#paint2_linear_99_13572)" mask="url(#path-4-inside-2_99_13572)"/>
-<g filter="url(#filter1_i_99_13572)">
-<circle cx="12.5" cy="12.5" r="3.5" fill="#FF6D00"/>
-</g>
-<circle cx="12.5" cy="12.5" r="3" stroke="#BC4305"/>
+<circle cx="12.5" cy="12.5" r="3" fill="url(#paint3_radial_99_13572)" stroke="#BC4305"/>
 <path fill-rule="evenodd" clip-rule="evenodd" d="M14 13H11V12H14V13Z" fill="white"/>
 </g>
 <defs>
@@ -27,16 +24,6 @@
 <feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.1 0"/>
 <feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_99_13572"/>
 <feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_99_13572" result="shape"/>
-</filter>
-<filter id="filter1_i_99_13572" x="9" y="9" width="8" height="8" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
-<feFlood flood-opacity="0" result="BackgroundImageFix"/>
-<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
-<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
-<feOffset dx="1" dy="1"/>
-<feGaussianBlur stdDeviation="2"/>
-<feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1"/>
-<feColorMatrix type="matrix" values="0 0 0 0 1 0 0 0 0 0.68776 0 0 0 0 0.490104 0 0 0 1 0"/>
-<feBlend mode="normal" in2="shape" result="effect1_innerShadow_99_13572"/>
 </filter>
 <linearGradient id="paint0_linear_99_13572" x1="2" y1="7.46154" x2="14" y2="7.46154" gradientUnits="userSpaceOnUse">
 <stop stop-color="#EEEEEE"/>
@@ -50,6 +37,10 @@
 <stop stop-color="#E7E7E7"/>
 <stop offset="0.883197" stop-color="white"/>
 </linearGradient>
+<radialGradient id="paint3_radial_99_13572" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(11 11) rotate(45) scale(4.24264)">
+<stop stop-color="#FFAF7D"/>
+<stop offset="1" stop-color="#FF6D00"/>
+</radialGradient>
 <clipPath id="clip0_99_13572">
 <rect width="16" height="16" fill="white"/>
 </clipPath>
