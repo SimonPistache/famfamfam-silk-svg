@@ -1,26 +1,13 @@
 <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
 <g clip-path="url(#clip0_99_12562)">
-<g filter="url(#filter0_i_99_12562)">
-<circle cx="8" cy="8" r="7" fill="#E9E9E9"/>
-</g>
-<circle cx="8" cy="8" r="6.5" stroke="url(#paint0_linear_99_12562)"/>
+<circle cx="8" cy="8" r="6.5" fill="url(#paint0_radial_99_12562)" stroke="url(#paint1_linear_99_12562)"/>
 <circle cx="8" cy="8" r="5.5" stroke="white" stroke-opacity="0.66" style="mix-blend-mode:soft-light"/>
-<g filter="url(#filter1_i_99_12562)">
+<g filter="url(#filter0_i_99_12562)">
 <path fill-rule="evenodd" clip-rule="evenodd" d="M4 8L7 11V5L4 8ZM8 8L11 11V5L8 8Z" fill="#808080"/>
 </g>
 </g>
 <defs>
-<filter id="filter0_i_99_12562" x="1" y="1" width="16" height="16" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
-<feFlood flood-opacity="0" result="BackgroundImageFix"/>
-<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
-<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
-<feOffset dx="2" dy="2"/>
-<feGaussianBlur stdDeviation="4"/>
-<feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1"/>
-<feColorMatrix type="matrix" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
-<feBlend mode="normal" in2="shape" result="effect1_innerShadow_99_12562"/>
-</filter>
-<filter id="filter1_i_99_12562" x="4" y="5" width="7.5" height="6.5" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<filter id="filter0_i_99_12562" x="4" y="5" width="7.5" height="6.5" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
 <feFlood flood-opacity="0" result="BackgroundImageFix"/>
 <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
 <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
@@ -30,7 +17,11 @@
 <feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.2 0"/>
 <feBlend mode="plus-darker" in2="shape" result="effect1_innerShadow_99_12562"/>
 </filter>
-<linearGradient id="paint0_linear_99_12562" x1="13" y1="13" x2="3" y2="3" gradientUnits="userSpaceOnUse">
+<radialGradient id="paint0_radial_99_12562" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(13 13) rotate(-135) scale(14.1421)">
+<stop offset="0.332524" stop-color="#DEDEDE"/>
+<stop offset="1" stop-color="#F5F5F5"/>
+</radialGradient>
+<linearGradient id="paint1_linear_99_12562" x1="13" y1="13" x2="3" y2="3" gradientUnits="userSpaceOnUse">
 <stop stop-color="#9F9F9F"/>
 <stop offset="1" stop-color="#DADADA"/>
 </linearGradient>

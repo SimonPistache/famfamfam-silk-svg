@@ -1,27 +1,14 @@
 <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
 <g clip-path="url(#clip0_99_12561)">
-<g filter="url(#filter0_i_99_12561)">
-<circle cx="8" cy="8" r="7" fill="#DEE7F2"/>
-</g>
-<circle cx="8" cy="8" r="6.5" stroke="url(#paint0_linear_99_12561)"/>
+<circle cx="8" cy="8" r="6.5" fill="url(#paint0_radial_99_12561)" stroke="url(#paint1_linear_99_12561)"/>
 <circle cx="8" cy="8" r="5.5" stroke="white" stroke-opacity="0.66" style="mix-blend-mode:soft-light"/>
 <path fill-rule="evenodd" clip-rule="evenodd" d="M8 16C12.4183 16 16 12.4183 16 8C16 3.58172 12.4183 0 8 0C3.58172 0 0 3.58172 0 8C0 12.4183 3.58172 16 8 16ZM8 14C11.3137 14 14 11.3137 14 8C14 4.68629 11.3137 2 8 2C4.68629 2 2 4.68629 2 8C2 11.3137 4.68629 14 8 14Z" fill="#90BDF6" fill-opacity="0.5"/>
-<g filter="url(#filter1_i_99_12561)">
+<g filter="url(#filter0_i_99_12561)">
 <path fill-rule="evenodd" clip-rule="evenodd" d="M5 5V11H7V5H5ZM8 8L11 5V11L8 8Z" fill="#5B8FD1"/>
 </g>
 </g>
 <defs>
-<filter id="filter0_i_99_12561" x="1" y="1" width="16" height="16" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
-<feFlood flood-opacity="0" result="BackgroundImageFix"/>
-<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
-<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
-<feOffset dx="2" dy="2"/>
-<feGaussianBlur stdDeviation="4"/>
-<feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1"/>
-<feColorMatrix type="matrix" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
-<feBlend mode="normal" in2="shape" result="effect1_innerShadow_99_12561"/>
-</filter>
-<filter id="filter1_i_99_12561" x="5" y="5" width="6.5" height="6.5" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<filter id="filter0_i_99_12561" x="5" y="5" width="6.5" height="6.5" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
 <feFlood flood-opacity="0" result="BackgroundImageFix"/>
 <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
 <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
@@ -31,7 +18,11 @@
 <feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.2 0"/>
 <feBlend mode="plus-darker" in2="shape" result="effect1_innerShadow_99_12561"/>
 </filter>
-<linearGradient id="paint0_linear_99_12561" x1="13" y1="13" x2="3" y2="3" gradientUnits="userSpaceOnUse">
+<radialGradient id="paint0_radial_99_12561" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(13 13) rotate(-135) scale(14.1421)">
+<stop offset="0.33089" stop-color="#DEE7F2"/>
+<stop offset="1" stop-color="white"/>
+</radialGradient>
+<linearGradient id="paint1_linear_99_12561" x1="13" y1="13" x2="3" y2="3" gradientUnits="userSpaceOnUse">
 <stop stop-color="#8CADD4"/>
 <stop offset="1" stop-color="#D7E5F6"/>
 </linearGradient>
