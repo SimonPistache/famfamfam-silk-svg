@@ -6,4 +6,4 @@ plugins:
   - "@semantic-release/github"
 
 branches: 
-	- main
+  - main
