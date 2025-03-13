@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/SimonPistache/famfamfam-silk-svg/compare/v1.1.0...v1.1.1) (2025-03-13)
+
+
+### Bug Fixes
+
+* **#174:** Fix 𝑓 symbol on flash files icons ([#219](https://github.com/SimonPistache/famfamfam-silk-svg/issues/219)) ([0499115](https://github.com/SimonPistache/famfamfam-silk-svg/commit/04991151278a49f04c76931044ad12119739c8bf))
+
 # 1.0.0 (2025-03-13)
 
 
