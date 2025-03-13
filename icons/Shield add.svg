@@ -4,23 +4,10 @@
 <path d="M7.99999 14.5C5.99998 13 2.99998 11 2.99999 9L3 4C3 4 1.49999 3.5 1.99999 3C2.49999 2.5 3 4 3 4C6 4 6 2 7.99999 2C9.99999 2 9.99998 4 13 4C13 4 13.5 2.5 14 3C14.5 3.5 13 4 13 4V9C13 11 9.99998 13 7.99999 14.5Z" fill="url(#paint1_linear_375_7059)"/>
 <path d="M7.99999 14.5C5.99998 13 2.99998 11 2.99999 9L3 4C3 4 1.49999 3.5 1.99999 3C2.49999 2.5 3 4 3 4C6 4 6 2 7.99999 2C9.99999 2 9.99998 4 13 4C13 4 13.5 2.5 14 3C14.5 3.5 13 4 13 4V9C13 11 9.99998 13 7.99999 14.5Z" fill="url(#paint2_linear_375_7059)"/>
 <path d="M11.0432 4.14951C11.4508 4.31817 11.9249 4.43774 12.5 4.48157L12.5 9C12.5 9.37369 12.3595 9.78069 12.0779 10.2242C11.7966 10.6672 11.3919 11.1191 10.908 11.5727C10.1261 12.3058 9.18896 12.998 8.32179 13.6385C8.21329 13.7186 8.10588 13.7979 8.00002 13.8764C7.89416 13.7979 7.78678 13.7186 7.6783 13.6385C6.8111 12.998 5.87397 12.3059 5.09198 11.5727C4.60808 11.1191 4.20343 10.6673 3.92211 10.2242C3.64053 9.78069 3.50001 9.37369 3.50001 9L3.50001 4.48157C4.07511 4.43774 4.5492 4.31817 4.95681 4.14951C5.47462 3.93524 5.86164 3.65101 6.18735 3.39043C6.25217 3.33858 6.31409 3.28834 6.37378 3.2399C6.92374 2.79364 7.28562 2.5 8 2.5C8.71438 2.5 9.07626 2.79364 9.62622 3.2399C9.68592 3.28834 9.74784 3.33858 9.81266 3.39044C10.1384 3.65101 10.5254 3.93524 11.0432 4.14951Z" stroke="white" stroke-opacity="0.8" stroke-miterlimit="1.41421" stroke-linejoin="bevel"/>
-<g filter="url(#filter0_i_375_7059)">
-<circle cx="12.5" cy="12.5" r="3.5" fill="#456F23"/>
-</g>
-<circle cx="12.5" cy="12.5" r="3" stroke="url(#paint3_linear_375_7059)"/>
+<circle cx="12.5" cy="12.5" r="3" fill="url(#paint3_radial_375_7059)" stroke="url(#paint4_linear_375_7059)"/>
 <path fill-rule="evenodd" clip-rule="evenodd" d="M12 12V11H13V12H14V13H13V14H12V13H11V12H12Z" fill="white"/>
 </g>
 <defs>
-<filter id="filter0_i_375_7059" x="9" y="9" width="9" height="9" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
-<feFlood flood-opacity="0" result="BackgroundImageFix"/>
-<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
-<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
-<feOffset dx="2" dy="2"/>
-<feGaussianBlur stdDeviation="4"/>
-<feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1"/>
-<feColorMatrix type="matrix" values="0 0 0 0 0.715009 0 0 0 0 0.899316 0 0 0 0 0.570196 0 0 0 1 0"/>
-<feBlend mode="normal" in2="shape" result="effect1_innerShadow_375_7059"/>
-</filter>
 <linearGradient id="paint0_linear_375_7059" x1="1.89793" y1="2.13469" x2="14.102" y2="14.3653" gradientUnits="userSpaceOnUse">
 <stop offset="0.0474476" stop-color="#EEC340"/>
 <stop offset="0.799952" stop-color="#D5901E"/>
@@ -39,7 +26,11 @@
 <stop offset="0.67" stop-color="#F2CC4A"/>
 <stop offset="1" stop-color="#EFC338"/>
 </linearGradient>
-<linearGradient id="paint3_linear_375_7059" x1="15" y1="15" x2="10" y2="10" gradientUnits="userSpaceOnUse">
+<radialGradient id="paint3_radial_375_7059" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(10 10) rotate(45) scale(5.65685)">
+<stop stop-color="#B4D495"/>
+<stop offset="1" stop-color="#87B960"/>
+</radialGradient>
+<linearGradient id="paint4_linear_375_7059" x1="15" y1="15" x2="10" y2="10" gradientUnits="userSpaceOnUse">
 <stop stop-color="#376B19"/>
 <stop offset="1" stop-color="#5A9438"/>
 </linearGradient>

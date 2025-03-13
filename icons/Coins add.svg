@@ -14,23 +14,10 @@
 <path d="M5.5 7.5C5.5 7.66958 5.38282 7.90853 5.01052 8.13191C4.64817 8.34932 4.11532 8.5 3.5 8.5C2.88468 8.5 2.35183 8.34932 1.98948 8.13191C1.61718 7.90853 1.5 7.66958 1.5 7.5C1.5 7.33042 1.61718 7.09147 1.98948 6.86809C2.35183 6.65068 2.88468 6.5 3.5 6.5C4.11532 6.5 4.64817 6.65068 5.01052 6.86809C5.38282 7.09147 5.5 7.33042 5.5 7.5Z" stroke="white" stroke-opacity="0.33"/>
 <path fill-rule="evenodd" clip-rule="evenodd" d="M4.99105 11.5C4.96941 11.5361 4.90978 11.6093 4.75327 11.7032C4.48099 11.8665 4.04028 12 3.5 12C2.95972 12 2.51901 11.8665 2.24673 11.7032C2.09022 11.6093 2.03059 11.5361 2.00895 11.5V12.7041C2.42524 12.89 2.94121 13 3.5 13C4.05879 13 4.57476 12.89 4.99105 12.7041V11.5Z" fill="white" fill-opacity="0.33"/>
 <path fill-rule="evenodd" clip-rule="evenodd" d="M4.99105 9.5C4.96941 9.53613 4.90978 9.60926 4.75327 9.70317C4.48099 9.86654 4.04028 10 3.5 10C2.95972 10 2.51901 9.86654 2.24673 9.70317C2.09022 9.60926 2.03059 9.53613 2.00895 9.5V10.7041C2.42524 10.89 2.94121 11 3.5 11C4.05879 11 4.57476 10.89 4.99105 10.7041V9.5Z" fill="white" fill-opacity="0.33"/>
-<g filter="url(#filter0_i_478_8167)">
-<circle cx="12.5" cy="12.5" r="3.5" fill="#456F23"/>
-</g>
-<circle cx="12.5" cy="12.5" r="3" stroke="url(#paint8_linear_478_8167)"/>
+<circle cx="12.5" cy="12.5" r="3" fill="url(#paint8_radial_478_8167)" stroke="url(#paint9_linear_478_8167)"/>
 <path fill-rule="evenodd" clip-rule="evenodd" d="M12 12V11H13V12H14V13H13V14H12V13H11V12H12Z" fill="white"/>
 </g>
 <defs>
-<filter id="filter0_i_478_8167" x="9" y="9" width="9" height="9" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
-<feFlood flood-opacity="0" result="BackgroundImageFix"/>
-<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
-<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
-<feOffset dx="2" dy="2"/>
-<feGaussianBlur stdDeviation="4"/>
-<feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1"/>
-<feColorMatrix type="matrix" values="0 0 0 0 0.715009 0 0 0 0 0.899316 0 0 0 0 0.570196 0 0 0 1 0"/>
-<feBlend mode="normal" in2="shape" result="effect1_innerShadow_478_8167"/>
-</filter>
 <linearGradient id="paint0_linear_478_8167" x1="6" y1="7.5" x2="11" y2="7.5" gradientUnits="userSpaceOnUse">
 <stop offset="0.206722" stop-color="#F9D664"/>
 <stop offset="0.797288" stop-color="#EFB020"/>
@@ -63,7 +50,11 @@
 <stop stop-color="white"/>
 <stop offset="1" stop-color="white" stop-opacity="0"/>
 </linearGradient>
-<linearGradient id="paint8_linear_478_8167" x1="15" y1="15" x2="10" y2="10" gradientUnits="userSpaceOnUse">
+<radialGradient id="paint8_radial_478_8167" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(10 10) rotate(45) scale(5.65685)">
+<stop stop-color="#B4D495"/>
+<stop offset="1" stop-color="#87B960"/>
+</radialGradient>
+<linearGradient id="paint9_linear_478_8167" x1="15" y1="15" x2="10" y2="10" gradientUnits="userSpaceOnUse">
 <stop stop-color="#376B19"/>
 <stop offset="1" stop-color="#5A9438"/>
 </linearGradient>

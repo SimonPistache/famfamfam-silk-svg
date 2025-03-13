@@ -11,10 +11,7 @@
 <circle cx="10.5" cy="0.5" r="0.5" fill="#FF0F0F"/>
 <rect x="10" y="1" width="1" height="2" fill="#747474"/>
 <path d="M0 15C0 14.4477 0.447715 14 1 14H15C15.5523 14 16 14.4477 16 15H0Z" fill="#6A6C6A"/>
-<g filter="url(#filter1_i_99_11833)">
-<circle cx="12.5" cy="12.5" r="3.5" fill="#456F23"/>
-</g>
-<circle cx="12.5" cy="12.5" r="3" stroke="url(#paint4_linear_99_11833)"/>
+<circle cx="12.5" cy="12.5" r="3" fill="url(#paint4_radial_99_11833)" stroke="url(#paint5_linear_99_11833)"/>
 <path fill-rule="evenodd" clip-rule="evenodd" d="M12 12V11H13V12H14V13H13V14H12V13H11V12H12Z" fill="white"/>
 </g>
 <defs>
@@ -26,16 +23,6 @@
 <feOffset/>
 <feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1"/>
 <feColorMatrix type="matrix" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0.66 0"/>
-<feBlend mode="normal" in2="shape" result="effect1_innerShadow_99_11833"/>
-</filter>
-<filter id="filter1_i_99_11833" x="9" y="9" width="9" height="9" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
-<feFlood flood-opacity="0" result="BackgroundImageFix"/>
-<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
-<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
-<feOffset dx="2" dy="2"/>
-<feGaussianBlur stdDeviation="4"/>
-<feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1"/>
-<feColorMatrix type="matrix" values="0 0 0 0 0.715009 0 0 0 0 0.899316 0 0 0 0 0.570196 0 0 0 1 0"/>
 <feBlend mode="normal" in2="shape" result="effect1_innerShadow_99_11833"/>
 </filter>
 <linearGradient id="paint0_linear_99_11833" x1="3" y1="2.5" x2="13" y2="14" gradientUnits="userSpaceOnUse">
@@ -54,7 +41,11 @@
 <stop stop-color="#95B8F1"/>
 <stop offset="1" stop-color="#B2CCF5"/>
 </linearGradient>
-<linearGradient id="paint4_linear_99_11833" x1="15" y1="15" x2="10" y2="10" gradientUnits="userSpaceOnUse">
+<radialGradient id="paint4_radial_99_11833" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(10 10) rotate(45) scale(5.65685)">
+<stop stop-color="#B4D495"/>
+<stop offset="1" stop-color="#87B960"/>
+</radialGradient>
+<linearGradient id="paint5_linear_99_11833" x1="15" y1="15" x2="10" y2="10" gradientUnits="userSpaceOnUse">
 <stop stop-color="#376B19"/>
 <stop offset="1" stop-color="#5A9438"/>
 </linearGradient>

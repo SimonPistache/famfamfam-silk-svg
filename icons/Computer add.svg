@@ -21,23 +21,10 @@
 <rect x="2" y="5" width="8" height="6" fill="url(#paint7_linear_188_3070)"/>
 <rect x="2" y="5" width="8" height="6" fill="url(#paint8_linear_188_3070)"/>
 <rect x="2.5" y="5.5" width="7" height="5" stroke="black" stroke-opacity="0.33" stroke-linejoin="round" style="mix-blend-mode:overlay"/>
-<g filter="url(#filter0_i_188_3070)">
-<circle cx="12.5" cy="12.5" r="3.5" fill="#456F23"/>
-</g>
-<circle cx="12.5" cy="12.5" r="3" stroke="url(#paint9_linear_188_3070)"/>
+<circle cx="12.5" cy="12.5" r="3" fill="url(#paint9_radial_188_3070)" stroke="url(#paint10_linear_188_3070)"/>
 <path fill-rule="evenodd" clip-rule="evenodd" d="M12 12V11H13V12H14V13H13V14H12V13H11V12H12Z" fill="white"/>
 </g>
 <defs>
-<filter id="filter0_i_188_3070" x="9" y="9" width="9" height="9" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
-<feFlood flood-opacity="0" result="BackgroundImageFix"/>
-<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
-<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
-<feOffset dx="2" dy="2"/>
-<feGaussianBlur stdDeviation="4"/>
-<feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1"/>
-<feColorMatrix type="matrix" values="0 0 0 0 0.715009 0 0 0 0 0.899316 0 0 0 0 0.570196 0 0 0 1 0"/>
-<feBlend mode="normal" in2="shape" result="effect1_innerShadow_188_3070"/>
-</filter>
 <linearGradient id="paint0_linear_188_3070" x1="9" y1="1" x2="15" y2="13" gradientUnits="userSpaceOnUse">
 <stop stop-color="#CACACA"/>
 <stop offset="1" stop-color="#636363"/>
@@ -76,7 +63,11 @@
 <stop offset="0.205" stop-color="#96BDF1"/>
 <stop offset="1" stop-color="#90BDF6" stop-opacity="0"/>
 </linearGradient>
-<linearGradient id="paint9_linear_188_3070" x1="15" y1="15" x2="10" y2="10" gradientUnits="userSpaceOnUse">
+<radialGradient id="paint9_radial_188_3070" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(10 10) rotate(45) scale(5.65685)">
+<stop stop-color="#B4D495"/>
+<stop offset="1" stop-color="#87B960"/>
+</radialGradient>
+<linearGradient id="paint10_linear_188_3070" x1="15" y1="15" x2="10" y2="10" gradientUnits="userSpaceOnUse">
 <stop stop-color="#376B19"/>
 <stop offset="1" stop-color="#5A9438"/>
 </linearGradient>
