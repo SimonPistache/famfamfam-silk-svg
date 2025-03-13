@@ -4,9 +4,9 @@ run-name: Release a new version of the icon pack on PR's merging
 on:
   pull_request:
     types:
-      - merged
+      - closed
     branches:
-      - main
+      - 'main'
 
 jobs:
   semantic-release:
