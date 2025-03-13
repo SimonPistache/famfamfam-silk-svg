@@ -1,37 +1,19 @@
 <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
 <g clip-path="url(#clip0_81_4050)">
-<g filter="url(#filter0_ii_81_4050)">
-<circle cx="8" cy="8" r="7" fill="url(#paint0_radial_81_4050)"/>
-</g>
+<circle cx="8" cy="8" r="6.5" fill="url(#paint0_radial_81_4050)"/>
 <circle cx="8" cy="8" r="6.5" stroke="url(#paint1_linear_81_4050)"/>
+<circle cx="8" cy="8" r="6.5" stroke="#8E2F00" stroke-opacity="0.2"/>
 <circle cx="8" cy="8" r="5.5" stroke="white" stroke-opacity="0.66"/>
 <path d="M9.16401 4.094L8.87801 8.78H7.16201L6.87601 4.094H9.16401ZM8.02001 9.704C8.33535 9.704 8.60301 9.81767 8.82301 10.045C9.04301 10.265 9.15301 10.529 9.15301 10.837C9.15301 11.145 9.04301 11.4127 8.82301 11.64C8.60301 11.86 8.33535 11.97 8.02001 11.97C7.70468 11.97 7.43701 11.86 7.21701 11.64C6.99701 11.4127 6.88701 11.145 6.88701 10.837C6.88701 10.529 6.99701 10.265 7.21701 10.045C7.43701 9.81767 7.70468 9.704 8.02001 9.704Z" fill="white"/>
 </g>
 <defs>
-<filter id="filter0_ii_81_4050" x="1" y="1" width="16" height="16" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
-<feFlood flood-opacity="0" result="BackgroundImageFix"/>
-<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
-<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
-<feMorphology radius="2" operator="erode" in="SourceAlpha" result="effect1_innerShadow_81_4050"/>
-<feOffset dx="2" dy="2"/>
-<feGaussianBlur stdDeviation="4"/>
-<feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1"/>
-<feColorMatrix type="matrix" values="0 0 0 0 0.983165 0 0 0 0 0.508315 0 0 0 0 0.380312 0 0 0 1 0"/>
-<feBlend mode="normal" in2="shape" result="effect1_innerShadow_81_4050"/>
-<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
-<feMorphology radius="2" operator="erode" in="SourceAlpha" result="effect2_innerShadow_81_4050"/>
-<feOffset/>
-<feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1"/>
-<feColorMatrix type="matrix" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0.33 0"/>
-<feBlend mode="normal" in2="effect1_innerShadow_81_4050" result="effect2_innerShadow_81_4050"/>
-</filter>
 <radialGradient id="paint0_radial_81_4050" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(13 13) rotate(-135) scale(14.1421)">
 <stop offset="0.330063" stop-color="#E15D52"/>
 <stop offset="1" stop-color="#F58263"/>
 </radialGradient>
 <linearGradient id="paint1_linear_81_4050" x1="13" y1="13" x2="3" y2="3" gradientUnits="userSpaceOnUse">
-<stop stop-color="#C0442A"/>
-<stop offset="1" stop-color="#F77F65"/>
+<stop stop-color="#BF4228"/>
+<stop offset="1" stop-color="#F78066"/>
 </linearGradient>
 <clipPath id="clip0_81_4050">
 <rect width="16" height="16" fill="white"/>
