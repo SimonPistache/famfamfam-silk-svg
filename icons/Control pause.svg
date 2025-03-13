@@ -1,7 +1,7 @@
 <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
 <g clip-path="url(#clip0_99_12572)">
 <circle cx="8" cy="8" r="6.5" fill="url(#paint0_radial_99_12572)" stroke="url(#paint1_linear_99_12572)"/>
-<circle cx="8" cy="8" r="5.5" stroke="white" stroke-opacity="0.66" style="mix-blend-mode:soft-light"/>
+<circle cx="8" cy="8" r="5.5" stroke="white" stroke-opacity="0.8" style="mix-blend-mode:soft-light"/>
 <g filter="url(#filter0_i_99_12572)">
 <path fill-rule="evenodd" clip-rule="evenodd" d="M11 5L9 5L9 11L11 11L11 5ZM7 5L5 5L5 11L7 11L7 5Z" fill="#808080"/>
 </g>
@@ -19,7 +19,7 @@
 </filter>
 <radialGradient id="paint0_radial_99_12572" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(13 13) rotate(-135) scale(14.1421)">
 <stop offset="0.332524" stop-color="#DEDEDE"/>
-<stop offset="1" stop-color="#F5F5F5"/>
+<stop offset="1" stop-color="#F0F0F0"/>
 </radialGradient>
 <linearGradient id="paint1_linear_99_12572" x1="13" y1="13" x2="3" y2="3" gradientUnits="userSpaceOnUse">
 <stop stop-color="#9F9F9F"/>

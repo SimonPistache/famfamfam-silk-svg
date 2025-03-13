@@ -1,7 +1,7 @@
 <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
 <g clip-path="url(#clip0_99_12565)">
 <circle cx="8" cy="8" r="6.5" fill="url(#paint0_radial_99_12565)" stroke="url(#paint1_linear_99_12565)"/>
-<circle cx="8" cy="8" r="5.5" stroke="white" stroke-opacity="0.66" style="mix-blend-mode:soft-light"/>
+<circle cx="8" cy="8" r="5.5" stroke="white" stroke-opacity="0.8" style="mix-blend-mode:soft-light"/>
 <g filter="url(#filter0_i_99_12565)">
 <path fill-rule="evenodd" clip-rule="evenodd" d="M5.5 6C5.22386 6 5 6.22386 5 6.5V8.5C5 8.77614 5.22386 9 5.5 9H6V10H5.5C4.67157 10 4 9.32843 4 8.5V6.5C4 5.67157 4.67157 5 5.5 5H10.5C11.3284 5 12 5.67157 12 6.5V8.5C12 9.32843 11.3284 10 10.5 10H8.5V9H10.5C10.7761 9 11 8.77614 11 8.5V6.5C11 6.22386 10.7761 6 10.5 6H5.5Z" fill="#808080"/>
 <path d="M10 7L7 9.5L10 12V7Z" fill="#808080"/>
@@ -20,7 +20,7 @@
 </filter>
 <radialGradient id="paint0_radial_99_12565" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(13 13) rotate(-135) scale(14.1421)">
 <stop offset="0.332524" stop-color="#DEDEDE"/>
-<stop offset="1" stop-color="#F5F5F5"/>
+<stop offset="1" stop-color="#F0F0F0"/>
 </radialGradient>
 <linearGradient id="paint1_linear_99_12565" x1="13" y1="13" x2="3" y2="3" gradientUnits="userSpaceOnUse">
 <stop stop-color="#9F9F9F"/>

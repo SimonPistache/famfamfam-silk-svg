@@ -1,7 +1,7 @@
 <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
 <g clip-path="url(#clip0_99_12576)">
 <circle cx="8" cy="8" r="6.5" fill="url(#paint0_radial_99_12576)" stroke="url(#paint1_linear_99_12576)"/>
-<circle cx="8" cy="8" r="5.5" stroke="white" stroke-opacity="0.66" style="mix-blend-mode:soft-light"/>
+<circle cx="8" cy="8" r="5.5" stroke="white" stroke-opacity="0.8" style="mix-blend-mode:soft-light"/>
 <g filter="url(#filter0_i_99_12576)">
 <path fill-rule="evenodd" clip-rule="evenodd" d="M6 10.9146V12H7V10.9146C7.5826 10.7087 8 10.1531 8 9.5C8 8.84689 7.5826 8.29127 7 8.08535V4H6V8.08535C5.4174 8.29127 5 8.84689 5 9.5C5 10.1531 5.4174 10.7087 6 10.9146ZM6.5 10C6.77614 10 7 9.77614 7 9.5C7 9.22386 6.77614 9 6.5 9C6.22386 9 6 9.22386 6 9.5C6 9.77614 6.22386 10 6.5 10Z" fill="#808080"/>
 <path fill-rule="evenodd" clip-rule="evenodd" d="M10 5.08535V4H9V5.08535C8.4174 5.29127 8 5.84689 8 6.5C8 7.15311 8.4174 7.70873 9 7.91465V12H10V7.91465C10.5826 7.70873 11 7.15311 11 6.5C11 5.84689 10.5826 5.29127 10 5.08535ZM9.5 6C9.22386 6 9 6.22386 9 6.5C9 6.77614 9.22386 7 9.5 7C9.77614 7 10 6.77614 10 6.5C10 6.22386 9.77614 6 9.5 6Z" fill="#808080"/>
@@ -20,7 +20,7 @@
 </filter>
 <radialGradient id="paint0_radial_99_12576" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(13 13) rotate(-135) scale(14.1421)">
 <stop offset="0.332524" stop-color="#DEDEDE"/>
-<stop offset="1" stop-color="#F5F5F5"/>
+<stop offset="1" stop-color="#F0F0F0"/>
 </radialGradient>
 <linearGradient id="paint1_linear_99_12576" x1="13" y1="13" x2="3" y2="3" gradientUnits="userSpaceOnUse">
 <stop stop-color="#9F9F9F"/>
