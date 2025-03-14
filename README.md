@@ -11,20 +11,22 @@ Mix: ![Cup of caffee](<public/Cup of caffe.svg>) + ![Bullet delete](<icons/Bulle
 
 Customize: ![Cup of caffee](<public/Cup of caffe.svg>) ![Cup of Matcha latte](<public/Cup of matcha.svg>) ![Cup of Tea](<public/Cup of tea.svg>) ![Cup of water](<public/Cup of water.svg>)
 
-## How to use <img height=30px src="icons/Accept.svg">
+## How to use <img height=30px src="icons/Help.svg">
 
 * Clone or fork the repository.
 * Download files from the [icons](./icons/) folder.
 
 Currently available icons:
-![All available icons](./public/available-icons.png)  
+![All icons](./public/available-icons.png)  
+
+![All decorators](./public/available-decorators.png)
 
 ### <img height=24px src="icons/Date.svg"> Roadmap
 
-* (Soon) Designers: Get the Figma UI Kit
-* (Soon) Access to more decorators
-* (Soon) Access to variants
-* (Soon) Access to parts
+* <img src="icons/Tick.svg"> ~~Access to decorators~~ 
+* <img src="icons/Hourglass.svg"> Access to variants
+* <img src="icons/Hourglass.svg"> Access to parts
+* <img src="icons/Hourglass.svg"> Designers: Get the Figma UI Kit
 
 ## Contributing <img height=30px src="icons/Paintbrush.svg">
 
