@@ -1,0 +1,16 @@
+<svg width="9" height="9" viewBox="0 0 9 9" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M8.5 7C8.5 6.86739 8.44732 6.74021 8.35355 6.64645L6.35355 4.64645C6.25979 4.55268 6.13261 4.5 6 4.5H5C4.72386 4.5 4.5 4.72386 4.5 5V6C4.5 6.13261 4.55268 6.25979 4.64645 6.35355L6.64645 8.35355C6.74021 8.44732 6.86739 8.5 7 8.5H8C8.27614 8.5 8.5 8.27614 8.5 8V7Z" fill="#DEB992" stroke="url(#paint0_linear_3_1273)" stroke-linejoin="round"/>
+<circle cx="3.5" cy="3.5" r="3.5" fill="url(#paint1_radial_3_1273)"/>
+<circle cx="3.5" cy="3.5" r="3" stroke="#9BBDE2" stroke-opacity="0.66"/>
+<circle cx="3.5" cy="3.5" r="2" stroke="white" stroke-opacity="0.33"/>
+<defs>
+<linearGradient id="paint0_linear_3_1273" x1="5" y1="5" x2="8" y2="8" gradientUnits="userSpaceOnUse">
+<stop stop-color="#DCAC78"/>
+<stop offset="1" stop-color="#BA8A50"/>
+</linearGradient>
+<radialGradient id="paint1_radial_3_1273" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(6 6) rotate(-135) scale(7.07107)">
+<stop offset="0.33" stop-color="#B0D2F3"/>
+<stop offset="1" stop-color="#E0EEFC"/>
+</radialGradient>
+</defs>
+</svg>
