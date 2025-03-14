@@ -1,3 +1,10 @@
+## [1.2.2](https://github.com/SimonPistache/famfamfam-silk-svg/compare/v1.2.1...v1.2.2) (2025-03-14)
+
+
+### Bug Fixes
+
+* **#179:** Fix angular gradient not working ([#224](https://github.com/SimonPistache/famfamfam-silk-svg/issues/224)) ([3377bb2](https://github.com/SimonPistache/famfamfam-silk-svg/commit/3377bb2025df23500c4f0a33af421622fcf02ba1))
+
 ## [1.2.1](https://github.com/SimonPistache/famfamfam-silk-svg/compare/v1.2.0...v1.2.1) (2025-03-14)
 
 
