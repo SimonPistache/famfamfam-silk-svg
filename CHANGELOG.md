@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/SimonPistache/famfamfam-silk-svg/compare/v1.1.1...v1.2.0) (2025-03-14)
+
+
+### Features
+
+* **#220:** add & remove decorators ([#221](https://github.com/SimonPistache/famfamfam-silk-svg/issues/221)) ([354a863](https://github.com/SimonPistache/famfamfam-silk-svg/commit/354a863b51db370063558a2bfbf25b710dc084d0)), closes [#220](https://github.com/SimonPistache/famfamfam-silk-svg/issues/220) [#220](https://github.com/SimonPistache/famfamfam-silk-svg/issues/220) [#220](https://github.com/SimonPistache/famfamfam-silk-svg/issues/220) [#220](https://github.com/SimonPistache/famfamfam-silk-svg/issues/220)
+
 ## [1.1.1](https://github.com/SimonPistache/famfamfam-silk-svg/compare/v1.1.0...v1.1.1) (2025-03-13)
 
 
