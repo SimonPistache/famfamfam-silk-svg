@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/SimonPistache/famfamfam-silk-svg/compare/v1.2.2...v1.3.0) (2025-03-14)
+
+
+### Features
+
+* **#162:** Upload decorator iconset ([#163](https://github.com/SimonPistache/famfamfam-silk-svg/issues/163)) ([7e782cf](https://github.com/SimonPistache/famfamfam-silk-svg/commit/7e782cfbff5bdbd037069090488eb18aed180a18)), closes [#162](https://github.com/SimonPistache/famfamfam-silk-svg/issues/162) [#162](https://github.com/SimonPistache/famfamfam-silk-svg/issues/162) [#179](https://github.com/SimonPistache/famfamfam-silk-svg/issues/179) [#220](https://github.com/SimonPistache/famfamfam-silk-svg/issues/220) [#178](https://github.com/SimonPistache/famfamfam-silk-svg/issues/178)
+
 ## [1.2.2](https://github.com/SimonPistache/famfamfam-silk-svg/compare/v1.2.1...v1.2.2) (2025-03-14)
 
 
