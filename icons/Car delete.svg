@@ -8,23 +8,10 @@
 <path fill-rule="evenodd" clip-rule="evenodd" d="M3.66667 6L3 8H5V6H3.66667ZM6 8H8V6H6V8ZM9 8H11V6H9V8Z" fill="black" fill-opacity="0.5"/>
 <path d="M3 8L3.66667 6H3V8Z" fill="black" fill-opacity="0.5"/>
 <path d="M11 6V8H13V7H12V6H11Z" fill="black" fill-opacity="0.5"/>
-<g filter="url(#filter0_i_422_6946)">
-<circle cx="12.5" cy="12.5" r="3.5" fill="#FF6D00"/>
-</g>
-<circle cx="12.5" cy="12.5" r="3" stroke="#BC4305"/>
+<circle cx="12.5" cy="12.5" r="3" fill="url(#paint6_radial_422_6946)" stroke="#BC4305"/>
 <path fill-rule="evenodd" clip-rule="evenodd" d="M14 13H11V12H14V13Z" fill="white"/>
 </g>
 <defs>
-<filter id="filter0_i_422_6946" x="9" y="9" width="8" height="8" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
-<feFlood flood-opacity="0" result="BackgroundImageFix"/>
-<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
-<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
-<feOffset dx="1" dy="1"/>
-<feGaussianBlur stdDeviation="2"/>
-<feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1"/>
-<feColorMatrix type="matrix" values="0 0 0 0 1 0 0 0 0 0.68776 0 0 0 0 0.490104 0 0 0 1 0"/>
-<feBlend mode="normal" in2="shape" result="effect1_innerShadow_422_6946"/>
-</filter>
 <linearGradient id="paint0_linear_422_6946" x1="3.96968" y1="5" x2="11.0303" y2="11" gradientUnits="userSpaceOnUse">
 <stop stop-color="#9EBFE6"/>
 <stop offset="1" stop-color="#5A8FD3"/>
@@ -49,6 +36,10 @@
 <stop stop-color="#292A2C"/>
 <stop offset="1" stop-color="#595959"/>
 </linearGradient>
+<radialGradient id="paint6_radial_422_6946" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(11 11) rotate(45) scale(4.24264)">
+<stop stop-color="#FFAF7D"/>
+<stop offset="1" stop-color="#FF6D00"/>
+</radialGradient>
 <clipPath id="clip0_422_6946">
 <rect width="16" height="16" fill="white"/>
 </clipPath>

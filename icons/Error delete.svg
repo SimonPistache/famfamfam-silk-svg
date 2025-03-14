@@ -3,25 +3,16 @@
 <path d="M7.99998 3.17592L12.8467 11.3H3.15322L7.99998 3.17592Z" stroke="white" stroke-linejoin="round" style="mix-blend-mode:color-burn"/>
 <path d="M7.99998 3.17592L12.8467 11.3H3.15322L7.99998 3.17592Z" stroke="white" stroke-linejoin="round" style="mix-blend-mode:overlay"/>
 <path d="M8.792 5.182L8.584 8.59H7.336L7.128 5.182H8.792ZM7.96 9.262C8.18933 9.262 8.384 9.34467 8.544 9.51C8.704 9.67 8.784 9.862 8.784 10.086C8.784 10.31 8.704 10.5047 8.544 10.67C8.384 10.83 8.18933 10.91 7.96 10.91C7.73067 10.91 7.536 10.83 7.376 10.67C7.216 10.5047 7.136 10.31 7.136 10.086C7.136 9.862 7.216 9.67 7.376 9.51C7.536 9.34467 7.73067 9.262 7.96 9.262Z" fill="#C07D2C"/>
-<g filter="url(#filter0_i_189_3711)">
-<circle cx="12.5" cy="12.5" r="3.5" fill="#FF6D00"/>
-</g>
-<circle cx="12.5" cy="12.5" r="3" stroke="#BC4305"/>
+<circle cx="12.5" cy="12.5" r="3" fill="url(#paint1_radial_189_3711)" stroke="#BC4305"/>
 <path fill-rule="evenodd" clip-rule="evenodd" d="M14 13H11V12H14V13Z" fill="white"/>
 <defs>
-<filter id="filter0_i_189_3711" x="9" y="9" width="8" height="8" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
-<feFlood flood-opacity="0" result="BackgroundImageFix"/>
-<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
-<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
-<feOffset dx="1" dy="1"/>
-<feGaussianBlur stdDeviation="2"/>
-<feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1"/>
-<feColorMatrix type="matrix" values="0 0 0 0 1 0 0 0 0 0.68776 0 0 0 0 0.490104 0 0 0 1 0"/>
-<feBlend mode="normal" in2="shape" result="effect1_innerShadow_189_3711"/>
-</filter>
 <linearGradient id="paint0_linear_189_3711" x1="7.99998" y1="2.20001" x2="7.99998" y2="11.8" gradientUnits="userSpaceOnUse">
 <stop stop-color="#E1B129"/>
 <stop offset="1" stop-color="#BF7C2B"/>
 </linearGradient>
+<radialGradient id="paint1_radial_189_3711" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(11 11) rotate(45) scale(4.24264)">
+<stop stop-color="#FFAF7D"/>
+<stop offset="1" stop-color="#FF6D00"/>
+</radialGradient>
 </defs>
 </svg>

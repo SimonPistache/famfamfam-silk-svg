@@ -6,23 +6,10 @@
 <path d="M4.85355 2.35355C5.04882 2.15829 5.04882 1.84171 4.85355 1.64645L4.56066 1.35355C3.97487 0.767768 3.02513 0.767765 2.43934 1.35355L1.35355 2.43934C0.767767 3.02513 0.767767 3.97487 1.35355 4.56066L1.64645 4.85355C1.74021 4.94732 1.86739 5 2 5C2.13261 5 2.25979 4.94732 2.35355 4.85355L4.85355 2.35355Z" fill="url(#paint5_linear_446_7338)" stroke="url(#paint6_linear_446_7338)" stroke-linejoin="round"/>
 <path d="M14.3536 4.85355C14.2598 4.94732 14.1326 5 14 5C13.8674 5 13.7402 4.94732 13.6464 4.85355L11.1464 2.35355C10.9512 2.15829 10.9512 1.84171 11.1464 1.64645L11.4393 1.35355C12.0251 0.767768 12.9749 0.767766 13.5607 1.35355L14.6464 2.43934C15.2322 3.02513 15.2322 3.97487 14.6464 4.56066L14.3536 4.85355Z" fill="url(#paint7_linear_446_7338)" stroke="url(#paint8_linear_446_7338)" stroke-linejoin="round"/>
 <path d="M8 6V8L11 6" stroke="#777F81" stroke-linecap="round" stroke-linejoin="round"/>
-<g filter="url(#filter0_i_446_7338)">
-<circle cx="12.5" cy="12.5" r="3.5" fill="#FF6D00"/>
-</g>
-<circle cx="12.5" cy="12.5" r="3" stroke="#BC4305"/>
+<circle cx="12.5" cy="12.5" r="3" fill="url(#paint9_radial_446_7338)" stroke="#BC4305"/>
 <path fill-rule="evenodd" clip-rule="evenodd" d="M14 13H11V12H14V13Z" fill="white"/>
 </g>
 <defs>
-<filter id="filter0_i_446_7338" x="9" y="9" width="8" height="8" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
-<feFlood flood-opacity="0" result="BackgroundImageFix"/>
-<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
-<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
-<feOffset dx="1" dy="1"/>
-<feGaussianBlur stdDeviation="2"/>
-<feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1"/>
-<feColorMatrix type="matrix" values="0 0 0 0 1 0 0 0 0 0.68776 0 0 0 0 0.490104 0 0 0 1 0"/>
-<feBlend mode="normal" in2="shape" result="effect1_innerShadow_446_7338"/>
-</filter>
 <linearGradient id="paint0_linear_446_7338" x1="8" y1="1" x2="8" y2="15" gradientUnits="userSpaceOnUse">
 <stop stop-color="#A1D8F1"/>
 <stop offset="1" stop-color="#477AB3"/>
@@ -63,6 +50,10 @@
 <stop stop-color="#F6C22E"/>
 <stop offset="1" stop-color="#DEA92F"/>
 </linearGradient>
+<radialGradient id="paint9_radial_446_7338" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(11 11) rotate(45) scale(4.24264)">
+<stop stop-color="#FFAF7D"/>
+<stop offset="1" stop-color="#FF6D00"/>
+</radialGradient>
 <clipPath id="clip0_446_7338">
 <rect width="16" height="16" fill="white"/>
 </clipPath>

@@ -5,22 +5,9 @@
 <path d="M14.5 12V8C14.5 7.17157 13.8284 6.5 13 6.5H7.70711C7.12175 6.5 6.56036 6.73253 6.14645 7.14645C5.92007 7.37282 5.61304 7.5 5.29289 7.5H3C2.17157 7.5 1.5 8.17157 1.5 9V12C1.5 12.8284 2.17157 13.5 3 13.5H13C13.8284 13.5 14.5 12.8284 14.5 12Z" fill="url(#paint2_linear_155_2618)" stroke="url(#paint3_linear_155_2618)"/>
 <path d="M13.5 8V12C13.5 12.2761 13.2761 12.5 13 12.5H3C2.72386 12.5 2.5 12.2761 2.5 12V9C2.5 8.72386 2.72386 8.5 3 8.5H5.29289C5.87825 8.5 6.43964 8.26747 6.85355 7.85355C7.07993 7.62718 7.38696 7.5 7.70711 7.5H13C13.2761 7.5 13.5 7.72386 13.5 8Z" stroke="white" stroke-opacity="0.5" style="mix-blend-mode:hard-light"/>
 <path d="M13.5 8V12C13.5 12.2761 13.2761 12.5 13 12.5H3C2.72386 12.5 2.5 12.2761 2.5 12V9C2.5 8.72386 2.72386 8.5 3 8.5H5.29289C5.87825 8.5 6.43964 8.26747 6.85355 7.85355C7.07993 7.62718 7.38696 7.5 7.70711 7.5H13C13.2761 7.5 13.5 7.72386 13.5 8Z" stroke="white" stroke-opacity="0.5" style="mix-blend-mode:soft-light"/>
-<g filter="url(#filter0_i_155_2618)">
-<circle cx="12.5" cy="12.5" r="3.5" fill="#456F23"/>
-</g>
-<circle cx="12.5" cy="12.5" r="3" stroke="url(#paint4_linear_155_2618)"/>
+<circle cx="12.5" cy="12.5" r="3" fill="url(#paint4_radial_155_2618)" stroke="url(#paint5_linear_155_2618)"/>
 <path fill-rule="evenodd" clip-rule="evenodd" d="M12 12V11H13V12H14V13H13V14H12V13H11V12H12Z" fill="white"/>
 <defs>
-<filter id="filter0_i_155_2618" x="9" y="9" width="9" height="9" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
-<feFlood flood-opacity="0" result="BackgroundImageFix"/>
-<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
-<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
-<feOffset dx="2" dy="2"/>
-<feGaussianBlur stdDeviation="4"/>
-<feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1"/>
-<feColorMatrix type="matrix" values="0 0 0 0 0.715009 0 0 0 0 0.899316 0 0 0 0 0.570196 0 0 0 1 0"/>
-<feBlend mode="normal" in2="shape" result="effect1_innerShadow_155_2618"/>
-</filter>
 <linearGradient id="paint0_linear_155_2618" x1="2" y1="4" x2="14" y2="13" gradientUnits="userSpaceOnUse">
 <stop stop-color="#F8E48E"/>
 <stop offset="1" stop-color="#F1CD2E"/>
@@ -37,7 +24,11 @@
 <stop stop-color="#DEB04D"/>
 <stop offset="1" stop-color="#D98B34"/>
 </linearGradient>
-<linearGradient id="paint4_linear_155_2618" x1="15" y1="15" x2="10" y2="10" gradientUnits="userSpaceOnUse">
+<radialGradient id="paint4_radial_155_2618" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(10 10) rotate(45) scale(5.65685)">
+<stop stop-color="#B4D495"/>
+<stop offset="1" stop-color="#87B960"/>
+</radialGradient>
+<linearGradient id="paint5_linear_155_2618" x1="15" y1="15" x2="10" y2="10" gradientUnits="userSpaceOnUse">
 <stop stop-color="#376B19"/>
 <stop offset="1" stop-color="#5A9438"/>
 </linearGradient>

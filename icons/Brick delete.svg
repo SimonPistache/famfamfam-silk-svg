@@ -23,10 +23,7 @@
 <path d="M8 7.5C8.61308 7.5 9.19283 7.37681 9.63782 7.15432C10.0529 6.94678 10.5 6.56756 10.5 6C10.5 5.43244 10.0529 5.05322 9.63782 4.84568C9.19283 4.62319 8.61308 4.5 8 4.5C7.38692 4.5 6.80717 4.62319 6.36218 4.84568C5.9471 5.05322 5.5 5.43244 5.5 6C5.5 6.56756 5.9471 6.94678 6.36218 7.15432C6.80717 7.37681 7.38692 7.5 8 7.5Z" stroke="url(#paint6_linear_99_11889)"/>
 </g>
 </g>
-<g filter="url(#filter4_i_99_11889)">
-<circle cx="12.5" cy="12.5" r="3.5" fill="#FF6D00"/>
-</g>
-<circle cx="12.5" cy="12.5" r="3" stroke="#BC4305"/>
+<circle cx="12.5" cy="12.5" r="3" fill="url(#paint7_radial_99_11889)" stroke="#BC4305"/>
 <path fill-rule="evenodd" clip-rule="evenodd" d="M14 13H11V12H14V13Z" fill="white"/>
 </g>
 <defs>
@@ -66,16 +63,6 @@
 <feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_99_11889"/>
 <feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_99_11889" result="shape"/>
 </filter>
-<filter id="filter4_i_99_11889" x="9" y="9" width="8" height="8" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
-<feFlood flood-opacity="0" result="BackgroundImageFix"/>
-<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
-<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
-<feOffset dx="1" dy="1"/>
-<feGaussianBlur stdDeviation="2"/>
-<feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1"/>
-<feColorMatrix type="matrix" values="0 0 0 0 1 0 0 0 0 0.68776 0 0 0 0 0.490104 0 0 0 1 0"/>
-<feBlend mode="normal" in2="shape" result="effect1_innerShadow_99_11889"/>
-</filter>
 <linearGradient id="paint0_linear_99_11889" x1="0" y1="5" x2="8" y2="16" gradientUnits="userSpaceOnUse">
 <stop offset="0.140203" stop-color="#F1F1F1"/>
 <stop offset="0.906757" stop-color="#D6D6D6"/>
@@ -104,6 +91,10 @@
 <stop offset="0.245" stop-color="#A3A3A3"/>
 <stop offset="1" stop-color="#CCCCCC"/>
 </linearGradient>
+<radialGradient id="paint7_radial_99_11889" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(11 11) rotate(45) scale(4.24264)">
+<stop stop-color="#FFAF7D"/>
+<stop offset="1" stop-color="#FF6D00"/>
+</radialGradient>
 <clipPath id="clip0_99_11889">
 <rect width="16" height="16" fill="white"/>
 </clipPath>

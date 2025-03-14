@@ -7,22 +7,9 @@
 <path d="M0.5 4C0.5 4.27614 0.723858 4.5 1 4.5H1.5H12.5C13.0523 4.5 13.5 4.05228 13.5 3.5C13.5 2.94772 13.0523 2.5 12.5 2.5H1.5C0.947715 2.5 0.5 2.94772 0.5 3.5V4Z" fill="url(#paint3_linear_474_8014)" stroke="url(#paint4_linear_474_8014)" stroke-linecap="round" stroke-linejoin="round"/>
 <path d="M11.8083 2.77743C11.812 2.77379 11.8157 2.77013 11.8193 2.76646C12.3306 2.25499 13.0853 1.5 14.5 1.5C15.0523 1.5 15.5 1.94772 15.5 2.5C15.5 3.05228 15.0523 3.5 14.5 3.5C14.197 3.5 13.9987 3.56686 13.8272 3.66985C13.6364 3.78447 13.4621 3.95215 13.2071 4.20711C12.8166 4.59763 12.1834 4.59763 11.7929 4.20711C11.4024 3.81658 11.4024 3.18342 11.7929 2.79289L11.7929 2.79289M11.8083 2.77743L11.7929 2.79289M11.8083 2.77743C11.8083 2.77743 11.8083 2.77744 11.8083 2.77744M11.8083 2.77743L11.8083 2.77744M11.7929 2.79289L11.8083 2.77744M11.7929 2.79289L11.8083 2.77744" fill="url(#paint5_linear_474_8014)" stroke="url(#paint6_linear_474_8014)" stroke-linecap="round" stroke-linejoin="round"/>
 <path d="M14.5 3.5C14 3.5 13.5 4 13.5 4.5V5.5" stroke="url(#paint7_linear_474_8014)" stroke-linecap="round" stroke-linejoin="round"/>
-<g filter="url(#filter0_i_474_8014)">
-<circle cx="12.5" cy="12.5" r="3.5" fill="#FF6D00"/>
-</g>
-<circle cx="12.5" cy="12.5" r="3" stroke="#BC4305"/>
+<circle cx="12.5" cy="12.5" r="3" fill="url(#paint8_radial_474_8014)" stroke="#BC4305"/>
 <path fill-rule="evenodd" clip-rule="evenodd" d="M14 13H11V12H14V13Z" fill="white"/>
 <defs>
-<filter id="filter0_i_474_8014" x="9" y="9" width="8" height="8" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
-<feFlood flood-opacity="0" result="BackgroundImageFix"/>
-<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
-<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
-<feOffset dx="1" dy="1"/>
-<feGaussianBlur stdDeviation="2"/>
-<feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1"/>
-<feColorMatrix type="matrix" values="0 0 0 0 1 0 0 0 0 0.68776 0 0 0 0 0.490104 0 0 0 1 0"/>
-<feBlend mode="normal" in2="shape" result="effect1_innerShadow_474_8014"/>
-</filter>
 <linearGradient id="paint0_linear_474_8014" x1="0.5" y1="4.5" x2="13" y2="7" gradientUnits="userSpaceOnUse">
 <stop stop-color="#D8D8D8"/>
 <stop offset="1" stop-color="#CCCCCC"/>
@@ -56,5 +43,9 @@
 <stop offset="0.505742" stop-color="#7D7D7D"/>
 <stop offset="0.839652" stop-color="#9B9B9B"/>
 </linearGradient>
+<radialGradient id="paint8_radial_474_8014" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(11 11) rotate(45) scale(4.24264)">
+<stop stop-color="#FFAF7D"/>
+<stop offset="1" stop-color="#FF6D00"/>
+</radialGradient>
 </defs>
 </svg>

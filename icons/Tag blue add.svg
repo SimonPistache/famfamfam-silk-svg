@@ -3,24 +3,15 @@
 <path fill-rule="evenodd" clip-rule="evenodd" d="M1 1H6L14 9L9 14L1 6V1ZM3.5 5C4.32843 5 5 4.32843 5 3.5C5 2.67157 4.32843 2 3.5 2C2.67157 2 2 2.67157 2 3.5C2 4.32843 2.67157 5 3.5 5Z" fill="#FDFDFD"/>
 <path d="M1 0.5C0.723858 0.5 0.5 0.723858 0.5 1V6C0.5 6.13261 0.552678 6.25979 0.646447 6.35355L8.64645 14.3536C8.84171 14.5488 9.15829 14.5488 9.35355 14.3536L14.3536 9.35355C14.5488 9.15829 14.5488 8.84171 14.3536 8.64645L6.35355 0.646447C6.25979 0.552678 6.13261 0.5 6 0.5H1ZM4.5 3.5C4.5 4.05228 4.05228 4.5 3.5 4.5C2.94772 4.5 2.5 4.05228 2.5 3.5C2.5 2.94772 2.94772 2.5 3.5 2.5C4.05228 2.5 4.5 2.94772 4.5 3.5Z" stroke="#D5D5D5" stroke-linejoin="round"/>
 <path d="M4.70711 7L7 4.70711L11.2929 9L9 11.2929L4.70711 7Z" fill="#9ED7FF" stroke="#83CCFF"/>
-<g filter="url(#filter0_i_407_7859)">
-<circle cx="12.5" cy="12.5" r="3.5" fill="#456F23"/>
-</g>
-<circle cx="12.5" cy="12.5" r="3" stroke="url(#paint0_linear_407_7859)"/>
+<circle cx="12.5" cy="12.5" r="3" fill="url(#paint0_radial_407_7859)" stroke="url(#paint1_linear_407_7859)"/>
 <path fill-rule="evenodd" clip-rule="evenodd" d="M12 12V11H13V12H14V13H13V14H12V13H11V12H12Z" fill="white"/>
 </g>
 <defs>
-<filter id="filter0_i_407_7859" x="9" y="9" width="9" height="9" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
-<feFlood flood-opacity="0" result="BackgroundImageFix"/>
-<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
-<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
-<feOffset dx="2" dy="2"/>
-<feGaussianBlur stdDeviation="4"/>
-<feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1"/>
-<feColorMatrix type="matrix" values="0 0 0 0 0.715009 0 0 0 0 0.899316 0 0 0 0 0.570196 0 0 0 1 0"/>
-<feBlend mode="normal" in2="shape" result="effect1_innerShadow_407_7859"/>
-</filter>
-<linearGradient id="paint0_linear_407_7859" x1="15" y1="15" x2="10" y2="10" gradientUnits="userSpaceOnUse">
+<radialGradient id="paint0_radial_407_7859" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(10 10) rotate(45) scale(5.65685)">
+<stop stop-color="#B4D495"/>
+<stop offset="1" stop-color="#87B960"/>
+</radialGradient>
+<linearGradient id="paint1_linear_407_7859" x1="15" y1="15" x2="10" y2="10" gradientUnits="userSpaceOnUse">
 <stop stop-color="#376B19"/>
 <stop offset="1" stop-color="#5A9438"/>
 </linearGradient>

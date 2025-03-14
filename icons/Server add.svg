@@ -13,22 +13,9 @@
 <rect x="6" y="4" width="4" height="1" rx="0.5" fill="black" fill-opacity="0.33"/>
 <rect x="6" y="6" width="4" height="1" rx="0.5" fill="black" fill-opacity="0.33"/>
 <circle cx="9" cy="9" r="1" fill="url(#paint3_linear_188_3426)"/>
-<g filter="url(#filter0_i_188_3426)">
-<circle cx="12.5" cy="12.5" r="3.5" fill="#456F23"/>
-</g>
-<circle cx="12.5" cy="12.5" r="3" stroke="url(#paint4_linear_188_3426)"/>
+<circle cx="12.5" cy="12.5" r="3" fill="url(#paint4_radial_188_3426)" stroke="url(#paint5_linear_188_3426)"/>
 <path fill-rule="evenodd" clip-rule="evenodd" d="M12 12V11H13V12H14V13H13V14H12V13H11V12H12Z" fill="white"/>
 <defs>
-<filter id="filter0_i_188_3426" x="9" y="9" width="9" height="9" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
-<feFlood flood-opacity="0" result="BackgroundImageFix"/>
-<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
-<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
-<feOffset dx="2" dy="2"/>
-<feGaussianBlur stdDeviation="4"/>
-<feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1"/>
-<feColorMatrix type="matrix" values="0 0 0 0 0.715009 0 0 0 0 0.899316 0 0 0 0 0.570196 0 0 0 1 0"/>
-<feBlend mode="normal" in2="shape" result="effect1_innerShadow_188_3426"/>
-</filter>
 <linearGradient id="paint0_linear_188_3426" x1="5" y1="2" x2="11" y2="14" gradientUnits="userSpaceOnUse">
 <stop stop-color="#CACACA"/>
 <stop offset="1" stop-color="#636363"/>
@@ -45,7 +32,11 @@
 <stop stop-color="#A4C8A0"/>
 <stop offset="1" stop-color="#42A13B"/>
 </linearGradient>
-<linearGradient id="paint4_linear_188_3426" x1="15" y1="15" x2="10" y2="10" gradientUnits="userSpaceOnUse">
+<radialGradient id="paint4_radial_188_3426" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(10 10) rotate(45) scale(5.65685)">
+<stop stop-color="#B4D495"/>
+<stop offset="1" stop-color="#87B960"/>
+</radialGradient>
+<linearGradient id="paint5_linear_188_3426" x1="15" y1="15" x2="10" y2="10" gradientUnits="userSpaceOnUse">
 <stop stop-color="#376B19"/>
 <stop offset="1" stop-color="#5A9438"/>
 </linearGradient>
