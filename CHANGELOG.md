@@ -1,3 +1,10 @@
+## [1.2.1](https://github.com/SimonPistache/famfamfam-silk-svg/compare/v1.2.0...v1.2.1) (2025-03-14)
+
+
+### Bug Fixes
+
+* **#117:** Set font stroke to be outside ([#223](https://github.com/SimonPistache/famfamfam-silk-svg/issues/223)) ([7eb7209](https://github.com/SimonPistache/famfamfam-silk-svg/commit/7eb7209cc3c3b068db14c9f90646683e12118894)), closes [#117](https://github.com/SimonPistache/famfamfam-silk-svg/issues/117) [#117](https://github.com/SimonPistache/famfamfam-silk-svg/issues/117) [#117](https://github.com/SimonPistache/famfamfam-silk-svg/issues/117) [#117](https://github.com/SimonPistache/famfamfam-silk-svg/issues/117) [#117](https://github.com/SimonPistache/famfamfam-silk-svg/issues/117)
+
 # [1.2.0](https://github.com/SimonPistache/famfamfam-silk-svg/compare/v1.1.1...v1.2.0) (2025-03-14)
 
 
