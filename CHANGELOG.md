@@ -1,3 +1,10 @@
+## [1.3.2](https://github.com/SimonPistache/famfamfam-silk-svg/compare/v1.3.1...v1.3.2) (2025-03-20)
+
+
+### Bug Fixes
+
+* **#222:** Remove original image PNG remaining in the svg ([#236](https://github.com/SimonPistache/famfamfam-silk-svg/issues/236)) ([1748130](https://github.com/SimonPistache/famfamfam-silk-svg/commit/1748130fc491e4c0c7b7814fcf520c116ee4400a)), closes [#222](https://github.com/SimonPistache/famfamfam-silk-svg/issues/222)
+
 ## [1.3.1](https://github.com/SimonPistache/famfamfam-silk-svg/compare/v1.3.0...v1.3.1) (2025-03-20)
 
 
