@@ -1,3 +1,10 @@
+## [1.3.1](https://github.com/SimonPistache/famfamfam-silk-svg/compare/v1.3.0...v1.3.1) (2025-03-20)
+
+
+### Bug Fixes
+
+* **#233:** Remove PNG remaining of the Date icon. ([#234](https://github.com/SimonPistache/famfamfam-silk-svg/issues/234)) ([cb6c62d](https://github.com/SimonPistache/famfamfam-silk-svg/commit/cb6c62dc66bfee121af6d92315a8487edce34f67)), closes [#233](https://github.com/SimonPistache/famfamfam-silk-svg/issues/233)
+
 # [1.3.0](https://github.com/SimonPistache/famfamfam-silk-svg/compare/v1.2.2...v1.3.0) (2025-03-14)
 
 
