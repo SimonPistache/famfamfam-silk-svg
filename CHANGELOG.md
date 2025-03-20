@@ -1,3 +1,10 @@
+## [1.3.3](https://github.com/SimonPistache/famfamfam-silk-svg/compare/v1.3.2...v1.3.3) (2025-03-20)
+
+
+### Bug Fixes
+
+* **#235:** Update icons having magnify decorator ([#237](https://github.com/SimonPistache/famfamfam-silk-svg/issues/237)) ([d166307](https://github.com/SimonPistache/famfamfam-silk-svg/commit/d1663075b8ab88fdd4d177c98ff8c0a6133174c0)), closes [#235](https://github.com/SimonPistache/famfamfam-silk-svg/issues/235)
+
 ## [1.3.2](https://github.com/SimonPistache/famfamfam-silk-svg/compare/v1.3.1...v1.3.2) (2025-03-20)
 
 
