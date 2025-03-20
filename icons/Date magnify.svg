@@ -22,23 +22,11 @@
 <path d="M12 1.5V2.5H14V1.5H12ZM11 2.5V1.5H9V2.5H11ZM11.5 3C11.2239 3 11 2.77614 11 2.5H9C9 3.88071 10.1193 5 11.5 5V3ZM12 2.5C12 2.77614 11.7761 3 11.5 3V5C12.8807 5 14 3.88071 14 2.5H12ZM11.5 1C11.7761 1 12 1.22386 12 1.5H14C14 0.119288 12.8807 -1 11.5 -1V1ZM11.5 -1C10.1193 -1 9 0.119288 9 1.5H11C11 1.22386 11.2239 1 11.5 1V-1Z" fill="black" fill-opacity="0.2" mask="url(#path-9-inside-3_445_7133)"/>
 <path d="M7.38 7.275V12H6.351V8.304L5.497 8.913L5.028 8.234L6.435 7.275H7.38ZM11.0426 7.268V7.989L9.55159 12.112L8.59959 11.804L9.97859 8.066H8.33359V7.268H11.0426Z" fill="black" fill-opacity="0.5"/>
 <path d="M15.5 14C15.5 13.8674 15.4473 13.7402 15.3536 13.6464L13.3536 11.6464C13.2598 11.5527 13.1326 11.5 13 11.5H12C11.7239 11.5 11.5 11.7239 11.5 12V13C11.5 13.1326 11.5527 13.2598 11.6464 13.3536L13.6464 15.3536C13.7402 15.4473 13.8674 15.5 14 15.5H15C15.2761 15.5 15.5 15.2761 15.5 15V14Z" fill="#DEB992" stroke="url(#paint3_linear_445_7133)" stroke-linejoin="round"/>
-<g filter="url(#filter0_i_445_7133)">
-<circle cx="10.5" cy="10.5" r="3.5" fill="#B0D2F3"/>
-</g>
-<circle cx="10.5" cy="10.5" r="3" stroke="#9BBDE2"/>
+<circle cx="10.5" cy="10.5" r="3.5" fill="url(#paint4_radial_445_7133)"/>
+<circle cx="10.5" cy="10.5" r="3" stroke="#9BBDE2" stroke-opacity="0.66"/>
 <circle cx="10.5" cy="10.5" r="2" stroke="white" stroke-opacity="0.33"/>
 </g>
 <defs>
-<filter id="filter0_i_445_7133" x="7" y="7" width="8" height="8" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
-<feFlood flood-opacity="0" result="BackgroundImageFix"/>
-<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
-<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
-<feOffset dx="1" dy="1"/>
-<feGaussianBlur stdDeviation="1.5"/>
-<feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1"/>
-<feColorMatrix type="matrix" values="0 0 0 0 0.880384 0 0 0 0 0.935048 0 0 0 0 0.989714 0 0 0 1 0"/>
-<feBlend mode="normal" in2="shape" result="effect1_innerShadow_445_7133"/>
-</filter>
 <linearGradient id="paint0_linear_445_7133" x1="2" y1="2.09255" x2="14" y2="13.9075" gradientUnits="userSpaceOnUse">
 <stop stop-color="#FCFCFC"/>
 <stop offset="1" stop-color="white"/>
@@ -57,6 +45,10 @@
 <stop stop-color="#DCAC78"/>
 <stop offset="1" stop-color="#BA8A50"/>
 </linearGradient>
+<radialGradient id="paint4_radial_445_7133" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(13 13) rotate(-135) scale(7.07107)">
+<stop offset="0.33" stop-color="#B0D2F3"/>
+<stop offset="1" stop-color="#E0EEFC"/>
+</radialGradient>
 <clipPath id="clip0_445_7133">
 <rect width="16" height="16" fill="white"/>
 </clipPath>
